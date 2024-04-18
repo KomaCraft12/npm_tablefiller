@@ -2,7 +2,7 @@
 
 ## A projektről
 
-- Verzió: 1.0.3
+- Verzió: 1.0.5
 - Licence: MIT
 - Készitette: Komáromi János
 
